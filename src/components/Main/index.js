@@ -10,8 +10,8 @@ const [discord, github, steam, youtube] = [
 ];
 
 /**
- * The user form functions
- * @return {HTMLDivElement} The form.
+ * The main page
+ * @returns {HTMLDivElement} The form.
  */
 function Main() {
   return (

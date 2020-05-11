@@ -5,7 +5,7 @@ import Main from './components/Main';
 
 /**
  * The main application function
- * @return {HTMLDivElement} The main div element.
+ * @returns {HTMLDivElement} The main div element.
  */
 function App() {
   return (
