@@ -5,10 +5,10 @@ import './Main.css';
 
 const [discord, github, steam, youtube, twitch] = [
   'https://discordapp.com/users/385132696135008259',
-  'https://github.com/Almeeida',
-  'https://steamcommunity.com/id/almeidaa01',
+  'https://github.com/almeidx',
+  'https://steamcommunity.com/id/almeidx_',
   'https://www.youtube.com/channel/UC9hiS7zuW1DdvyEmY7wsJKg',
-  'https://www.twitch.tv/almeida0001',
+  'https://www.twitch.tv/almeidx_',
 ];
 
 /**
