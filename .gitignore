@@ -1,14 +1,2 @@
-# Dependency files/directories
-node_modules/
-yarn.lock
-
-# IDE configuration directories
 .vscode/
 .idea/
-.editorconfig
-
-# dotenv environment variables file
-.env
-
-# Build directories
-build/
